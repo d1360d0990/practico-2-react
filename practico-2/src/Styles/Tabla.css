@@ -1,0 +1,13 @@
+.tabla {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .tabla th,
+  .tabla td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
